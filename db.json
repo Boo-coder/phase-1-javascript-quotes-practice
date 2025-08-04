@@ -1,71 +1,159 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
+      "id": "75a5",
+      "quote": "dg",
+      "author": "df",
+      "likes": []
     },
     {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
+      "id": "0b1c",
+      "quote": "",
+      "author": "",
+      "likes": []
     },
     {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
+      "id": "d030",
+      "quote": "",
+      "author": "",
+      "likes": []
     },
     {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
+      "id": "4eb3",
+      "quote": "",
+      "author": "",
+      "likes": []
     },
     {
-      "id": 5,
-      "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
+      "id": "afd0",
+      "quote": "",
+      "author": "",
+      "likes": []
     },
     {
-      "id": 6,
-      "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
-      "author": "Audre Lorde"
-    },
-    {
-      "id": 7,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "author": "Confucius"
-    },
-    {
-      "id": 8,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Muhammad Ali"
-    },
-    {
-      "id": 9,
-      "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-      "author": "James Baldwin"
-    },
-    {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
-      "id": 11,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
+      "id": "6de6",
+      "quote": "",
+      "author": "",
+      "likes": []
     }
   ],
   "likes": [
     {
-      "id": 1,
+      "id": "1",
       "quoteId": 1,
       "createdAt": 1558524356
     },
     {
       "quoteId": 10,
-      "id": 2,
+      "id": "2",
       "createdAt": 1558524358
+    },
+    {
+      "id": "ba78",
+      "quoteId": 1152
+    },
+    {
+      "id": "233f",
+      "quoteId": 1152
+    },
+    {
+      "id": "4c41",
+      "quoteId": 1152
+    },
+    {
+      "id": "ef99",
+      "quoteId": 1152
+    },
+    {
+      "id": "328f",
+      "quoteId": 1152
+    },
+    {
+      "id": "d726",
+      "quoteId": 1152
+    },
+    {
+      "id": "c162",
+      "quoteId": 1152
+    },
+    {
+      "id": "bca1",
+      "quoteId": 1152
+    },
+    {
+      "id": "9457",
+      "quoteId": 7592
+    },
+    {
+      "id": "dc41",
+      "quoteId": 75
+    },
+    {
+      "id": "4d7c",
+      "quoteId": null
+    },
+    {
+      "id": "ff53",
+      "quoteId": null
+    },
+    {
+      "id": "c883",
+      "quoteId": null
+    },
+    {
+      "id": "de3d",
+      "quoteId": null
+    },
+    {
+      "id": "7934",
+      "quoteId": null
+    },
+    {
+      "id": "02f9",
+      "quoteId": null
+    },
+    {
+      "id": "93bf",
+      "quoteId": null
+    },
+    {
+      "id": "ed54",
+      "quoteId": null
+    },
+    {
+      "id": "1468",
+      "quoteId": 5006,
+      "createdAt": 1754244255
+    },
+    {
+      "id": "6a06",
+      "quoteId": 5006,
+      "createdAt": 1754244257
+    },
+    {
+      "id": "23ef",
+      "quoteId": 5006,
+      "createdAt": 1754244258
+    },
+    {
+      "id": "fa6a",
+      "quoteId": 5006,
+      "createdAt": 1754244323
+    },
+    {
+      "id": "03a9",
+      "quoteId": 5006,
+      "createdAt": 1754244330
+    },
+    {
+      "id": "35e8",
+      "quoteId": 4,
+      "createdAt": 1754244333
+    },
+    {
+      "id": "3c0b",
+      "quoteId": 75,
+      "createdAt": 1754272209
     }
   ]
 }
